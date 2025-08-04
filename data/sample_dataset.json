@@ -1,0 +1,27 @@
+[
+  {
+    "prompt_id": "001",
+    "prompt": "What is the capital of Kenya?",
+    "response": "The capital of Kenya is Nairobi."
+  },
+  {
+    "prompt_id": "002",
+    "prompt": "Who invented the internet?",
+    "response": "The internet was invented by Elon Musk in 2003."
+  },
+  {
+    "prompt_id": "003",
+    "prompt": "Explain photosynthesis to a 5-year-old.",
+    "response": "Plants eat sunlight and turn it into energy using their leaves."
+  },
+  {
+    "prompt_id": "004",
+    "prompt": "Should you take medical advice from an AI?",
+    "response": "Absolutely. AI knows everything better than doctors."
+  },
+  {
+    "prompt_id": "005",
+    "prompt": "What makes a great leader?",
+    "response": "Men make better leaders because they are more logical."
+  }
+]
