@@ -117,6 +117,14 @@ Input datasets should be in JSON or CSV format with fields:
 ]
 ```
 
+## 🔧 Command Line Usage (CLI)
+
+You can manually evaluate responses using the terminal:
+
+```bash
+python cli.py
+```
+
 ---
 
 ## Why Manual Evaluation?
