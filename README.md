@@ -120,8 +120,11 @@ Input datasets should be in JSON or CSV format with fields:
 ## 🔧 Command Line Usage (CLI)
 
 You can manually evaluate responses using the terminal:
+<<<<<<< HEAD
+=======
 first navigate to data/sample_dataset.json
 
+>>>>>>> 72a4698db2b0235d9088e0af108402be87cb3f4b
 ```bash
 python cli.py
 ```
